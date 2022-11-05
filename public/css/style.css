@@ -1,0 +1,11 @@
+.color-custom{
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+.title{
+    -webkit-text-stroke: 1px rgb(136, 132, 132);
+    color: rgb(255, 251, 0);
+    padding: 10px;
+}
+.hero-image{
+    opacity: 0.8;
+}
